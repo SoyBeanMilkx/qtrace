@@ -6,7 +6,7 @@
 
 2GB+/min
 
- ![](upload/tmp/947037_YZS68P6XXE9XPSC.webp)
+ ![](art/speed.png)
 
 ## 格式
 
@@ -28,15 +28,14 @@ libName!{symbolInfo}!{traceType}
 
 ### func_code
 
- ![](upload/tmp/947037_SC34KAPHX9VK4DG.webp)
+ ![](art/trace_code.png)
 
 
 ### func_call
- ![](upload/tmp/947037_XYNCGS7BAPJA6PM.webp)
- ![](upload/tmp/947037_NX763JTDGRRB85B.webp)
+ ![](art/func_call1.png)
+ ![](art/func_call2.png)
 
 
-## == END ==
+## 鸣谢
 
-不开源。因为部分代码参考了**追佬的vm-trace** 欢迎大家使用vm-trace
-
+部分代码参考了**追佬的vm-trace** 欢迎大家使用vm-trace
